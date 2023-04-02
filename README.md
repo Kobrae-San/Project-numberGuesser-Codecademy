@@ -18,7 +18,7 @@ The ability to select a custom number range for guessing.
 Feedback on each guess to help players narrow down their options.
 A "Play Again" button to reset the game and choose a new number range.
 Credits
-The Number Guesser game was created by [Your Name Here]. It was developed as part of the Codecademy Full-Stack Engineer Career Path.
+The Number Guesser game was created by Kobrae-San. It was developed as part of the Codecademy Full-Stack Engineer Career Path.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
